@@ -1,4 +1,4 @@
-// Programa Java para verificar si una URL es válida usando Apache
+// Programa Java para verificar si una URL es valida usando Apache
 // common validator.
 import org.apache.commons.validator.routines.UrlValidator;
 
@@ -17,8 +17,8 @@ class URLValidator {
 
         /* validar una url */
         if (urlValidator(url))
-            System.out.print("La url dada " + url + " es válida");
+            System.out.print("La url dada " + url + " es valida");
         else
-            System.out.print("La url dada " + url + " no es válida");
+            System.out.print("La url dada " + url + " no es valida");
     }
 }
