@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="librerias/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="librerias/hsqldb.jar"/>
+	<classpathentry kind="lib" path="librerias/httpclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="librerias/httpclient-cache-4.1.1.jar"/>
+	<classpathentry kind="lib" path="librerias/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="librerias/httpmime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="librerias/itext-pdfa-5.4.0.jar"/>
+	<classpathentry kind="lib" path="librerias/itext-xtra-5.4.0.jar"/>
+	<classpathentry kind="lib" path="librerias/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="librerias/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="librerias/pdf-renderer-1.0.5.jar"/>
+	<classpathentry kind="lib" path="librerias/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
